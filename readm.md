@@ -1,2 +1,1 @@
-sdfsdfsdfsdfssadasdasd
-asdasdasdasd
+# Базовый курс Javascript
